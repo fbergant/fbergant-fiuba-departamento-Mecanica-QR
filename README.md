@@ -9,7 +9,7 @@ Repositorio institucional con acceso QR a presentación PDF del Departamento de 
 El QR publicado en este repositorio permite acceder directamente al recurso vinculado por el Departamento.  
 Se encuentra disponible como imagen (`QR valido MECANICA.png`) en la carpeta principal, listo para impresión, difusión o escaneo desde dispositivos móviles.
 
-![Código QR institucional](QR%20valido%20MECANICA.png)
+<img src="QR%20valido%20MECANICA.png" alt="Código QR institucional" width="250">
 
 ---
 
@@ -27,4 +27,28 @@ Se encuentra disponible como imagen (`QR valido MECANICA.png`) en la carpeta pri
 
 1. Escanear el código QR con la cámara del dispositivo.
 2. Acceder al recurso institucional vinculado:  
-   [https://drive.google.com/file/d/1paTksotigxIpQy6asC_ybHwlkFyh95Kv/view?usp=drive_link](https://drive.google.com/file/d/1paTksotigxIpQy6asC_ybHwlkFyh95Kv/view?usp
+   [https://drive.google.com/file/d/1paTksotigxIpQy6asC_ybHwlkFyh95Kv/view?usp=drive_link](https://drive.google.com/file/d/1paTksotigxIpQy6asC_ybHwlkFyh95Kv/view?usp=drive_link)
+3. Compartir el QR en ámbitos académicos, administrativos o estudiantiles.
+4. Verificar la compatibilidad móvil antes de la difusión masiva.
+
+---
+
+## 🔒 Consideraciones técnicas
+
+- El QR está optimizado para acceso rápido desde celulares.
+- Se recomienda mantener actualizado el enlace vinculado.
+- El repositorio puede ser clonado o referenciado desde otros proyectos institucionales.
+
+---
+
+## 🏛️ Institución
+
+**Departamento de Mecánica – FIUBA**  
+Facultad de Ingeniería – Universidad de Buenos Aires  
+[https://www.fi.uba.ar](https://www.fi.uba.ar)
+
+---
+
+## 📧 Contacto
+
+Para consultas institucionales, dirigirse al equipo del Departamento de Mecánica o al área de comunicación FIUBA.
