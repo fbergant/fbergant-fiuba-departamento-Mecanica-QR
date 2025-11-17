@@ -9,6 +9,8 @@ Repositorio institucional con acceso QR a presentación PDF del Departamento de 
 El QR publicado en este repositorio permite acceder directamente al recurso vinculado por el Departamento.  
 Se encuentra disponible como imagen (`qr.png`) en la carpeta principal, listo para impresión, difusión o escaneo desde dispositivos móviles.
 
+![Código QR institucional](qr.png)
+
 ---
 
 ## 📂 Contenido del repositorio
