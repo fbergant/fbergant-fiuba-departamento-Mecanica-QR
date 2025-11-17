@@ -1,13 +1,19 @@
-# Acceso Institucional – Departamento Mecánica FIUBA
+# Departamento Mecánica — FIUBA
 
-Repositorio institucional con acceso QR a presentación PDF del Departamento de Mecánica (FIUBA).
+Repositorio institucional con acceso QR a la presentación oficial en PDF y enlaces de referencia.
 
 ---
 
-## 📷 Código QR
+## 🚀 Acceso rápido
 
-El QR publicado en este repositorio permite acceder directamente al recurso vinculado por el Departamento.  
-Se encuentra disponible como imagen (`QR valido MECANICA.png`) en la carpeta principal, listo para impresión, difusión o escaneo desde dispositivos móviles.
+- **Presentación PDF (Drive):** [Presentación oficial](https://drive.google.com/file/d/1paTksotigxIpQy6asC_ybHwlkFyh95Kv/view?usp=drive_link)
+- **Descarga del QR:** `QR valido MECANICA.png`
+
+---
+
+## 📷 QR de acceso
+
+Escaneá el siguiente código para abrir la presentación PDF desde tu celular.
 
 <img src="QR%20valido%20MECANICA.png" alt="Código QR institucional" width="250">
 
@@ -17,19 +23,9 @@ Se encuentra disponible como imagen (`QR valido MECANICA.png`) en la carpeta pri
 
 - `README.md` → Documento técnico con instrucciones de uso.
 - `QR valido MECANICA.png` → Imagen del código QR institucional.
-- `enlace.txt` → Enlace directo vinculado al QR ([ver enlace](https://drive.google.com/file/d/1paTksotigxIpQy6asC_ybHwlkFyh95Kv/view?usp=drive_link)).
+- `enlace.txt` → Enlace directo vinculado al QR.
 - `presentacion.pdf` → Material institucional vinculado (si aplica).
 - `anexos/` → Carpeta opcional con documentos complementarios.
-
----
-
-## 🚀 Instrucciones de uso
-
-1. Escanear el código QR con la cámara del dispositivo.
-2. Acceder al recurso institucional vinculado:  
-   [https://drive.google.com/file/d/1paTksotigxIpQy6asC_ybHwlkFyh95Kv/view?usp=drive_link](https://drive.google.com/file/d/1paTksotigxIpQy6asC_ybHwlkFyh95Kv/view?usp=drive_link)
-3. Compartir el QR en ámbitos académicos, administrativos o estudiantiles.
-4. Verificar la compatibilidad móvil antes de la difusión masiva.
 
 ---
 
